@@ -2,11 +2,11 @@
 Minecraft classic reforged source code
 
 
-This is a modified client of Minecraft Classic made for a custom server.jar that i creating
-for the site: http://classicreforged.ddns.net/
+This is a modified client of Minecraft Classic made for a custom server.jar that i creating<br>
+for the site: http://classicreforged.ddns.net/<br>
 
-Instructions for play:
-1.Download the launcher from http://classicreforged.ddns.net/downloads.php
+Instructions for play:<br>
+1.Download the launcher from http://classicreforged.ddns.net/downloads.php<br>
 2.Install the launcher
 3.Select the server that you want to play from http://classicreforged.ddns.net/serverlist.php
 4.Click Join Server and play!
